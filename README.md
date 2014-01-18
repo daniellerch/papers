@@ -1,4 +1,4 @@
 publications
 ============
 
-Publications: research in cryptography &amp; steganography
+Publications: research in steganography &amp; cryptography
