@@ -45,3 +45,9 @@ Jun. 2011. Master Thesis (UOC)
 [[english](dlh2007_hakin9_rsa_en.pdf)]
 [[spanish](dlh2006_hakin9_rsa_es.pdf)]
 [[french](dlh2007_hakin9_rsa_fr.pdf)].
+
+
+See my [google scholar](https://scholar.google.es/citations?user=5ggVkxMAAAAJ&hl=es) profile.
+
+
+
