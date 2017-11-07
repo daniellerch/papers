@@ -6,12 +6,12 @@ Reunión Española de Criptografía y Seguridad XIV
 [[pdf](dlerch2016ma.pdf)] [[slides](dlerch2016ma_slides.pdf)].
 
 - Unsupervised steganalysis based on artificial training sets. UOC Research Week 2016,18 April 2016.
-[[slides](http://daniellerch.me/doc/dlerch_UOCRW2016_showcase.pdf)].
+[[slides](dlerch_UOCRW2016_showcase.pdf)].
 
 - Unsupervised steganalysis based on artificial training sets, with Megías. D.Engineering Applications of Artificial Intelligence, April 2016.
 [[10.1016/j.engappai.2015.12.013](http://www.sciencedirect.com/science/article/pii/S0952197616000026)]
 [[arxiv](https://arxiv.org/abs/1703.00796)]
-[[code](https://github.com/daniellerch/stego/tree/master/ATS)].
+[[code](https://github.com/daniellerch/papers_code)].
 
 - Esteganografía en zonas ruidosas de la imagen, con David Megías. Septiembre 2014. 
 Reunión Española de Criptografía y Seguridad XIII
