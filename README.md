@@ -15,8 +15,8 @@ Reunión Española de Criptografía y Seguridad XIV
 
 - Esteganografía en zonas ruidosas de la imagen, con David Megías. Septiembre 2014. 
 Reunión Española de Criptografía y Seguridad XIII
-[[pdf](http://m.web.ua.es/es/recsi2014/documentos/papers/esteganografia-en-zonas-ruidosas-de-la-imagen.pdf)]
-[[slides](http://daniellerch.me/doc/dlerchRECSI2014_slides.pdf)].
+[[pdf](dlerch2014.pdf)]
+[[slides](dlerchRECSI2014_slides.pdf)].
 
 - Esteganografía y Estegoanálisis, con Jordi Serra y la colaboración de Alfonso Muñoz. 
 Mayo 2014. Editorial 0xWord, ISBN: 978-84-617-0021-9
