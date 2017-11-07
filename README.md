@@ -3,7 +3,7 @@
 
 - Manifold alignment approach to cover source mismatch in steganalysis. October 2016. 
 Reunión Española de Criptografía y Seguridad XIV
-[[pdf](http://daniellerch.me/doc/dlerch2016ma.pdf)]
+[[pdf](/raw/master/dlerch2016ma.pdf)]
 [[slides](http://daniellerch.me/doc/dlerch2016ma_slides.pdf)].
 
 - Unsupervised steganalysis based on artificial training sets. UOC Research Week 2016,18 April 2016.
