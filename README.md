@@ -42,6 +42,6 @@ Jun. 2011. Master Thesis (UOC)
 [[pdf](dlh2007_hakin9_ec_es.pdf)]. 
 
 - Factorization Attack to RSA. Mar. 2007. Hakin9 Magazine
-[[english](dlh2006_hakin9_rsa_en.pdf)]
+[[english](dlh2007_hakin9_rsa_en.pdf)]
 [[spanish](dlh2006_hakin9_rsa_es.pdf)]
-[[french](dlh2006_hakin9_rsa_fr.pdf)].
+[[french](dlh2007_hakin9_rsa_fr.pdf)].
