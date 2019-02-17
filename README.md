@@ -1,6 +1,12 @@
 
 # Research papers
 
+
+-  Diagnóstico de CSM en estegoanálisis. Octubre 2018. 
+Reunión Española de Criptografía y Seguridad XV
+[[pdf](dlerch2018.pdf)]
+[[slides](dlerch2018_slides.pdf)].
+
 - Manifold alignment approach to cover source mismatch in steganalysis. October 2016. 
 Reunión Española de Criptografía y Seguridad XIV
 [[pdf](dlerch2016ma.pdf)] 
