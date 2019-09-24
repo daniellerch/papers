@@ -2,6 +2,10 @@
 # Research papers
 
 
+- Detection of Classifier Inconsistencies in Image Steganalysis. July 2019. Proceedings of the ACM Workshop on Information Hiding and Multimedia Security. 
+[[pdf](dlerch2019.pdf)]
+[[slides](dlerch2019_slides.pdf)].
+
 -  Diagnóstico de CSM en estegoanálisis. Octubre 2018. 
 Reunión Española de Criptografía y Seguridad XV
 [[pdf](dlerch2018.pdf)]
